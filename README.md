@@ -1,11 +1,11 @@
-About h5grove
-=============
+About h5grove-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/h5grove-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/silx-kit/h5grove
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/h5grove-feedstock/blob/main/LICENSE.txt)
 
 Summary: Core utilities to serve HDF5 file contents
 
