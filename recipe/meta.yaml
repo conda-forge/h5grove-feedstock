@@ -16,14 +16,15 @@ build:
 
 requirements:
   host:
-    - python >=3.6
+    - python >=3.8
     - pip
   run:
-    - python >=3.6
+    - python >=3.8
     - numpy
     - orjson
-    - h5py
+    - h5py >=3
     - tifffile
+    - typing-extensions
 
 test:
   imports:
