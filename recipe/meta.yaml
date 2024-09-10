@@ -1,5 +1,5 @@
 {% set name = "h5grove" %}
-{% set version = "2.2.0" %}
+{% set version = "2.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/h5grove-{{ version }}.tar.gz
-  sha256: 4ff4aed7166931ed71466ebe6ef49871a8ae76d85e4084601362c8a2b7af0c5d
+  sha256: 8d438f2a4616d64b176e6ff352d23b39027b9f1ab2c9169fcfd6f5f1caca8728
 
 build:
   noarch: python
